@@ -10,7 +10,7 @@ We have total 594,643 transactions and background information about 4,112 custom
 
 This is a supervised learning (classification) problem, which the **target feature 'fruad'** is provided.
 
-🎯 In order to minimize the loss for Ant Financial, its customers and involved merchants on the platform, we aim at predicting and detecting all potential fraud transactions by following processes. 
+🎯 In order to minimize the loss for Payment Company A, its customers and involved merchants on the platform, we aim at predicting and detecting all potential fraud transactions by following processes. 
 
 #### Overall Parts:
 - **section 1 👩🏼‍💻 : ** Exploratory Data Analysis
