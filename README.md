@@ -13,8 +13,8 @@ This is a supervised learning (classification) problem, which the **target featu
 🎯 In order to minimize the loss for Payment Company A, its customers and involved merchants on the platform, we aim at predicting and detecting all potential fraud transactions by following processes. 
 
 #### Overall Parts:
-- **section 1 👩🏼‍💻 : ** Exploratory Data Analysis
-- **section 2 👨🏻‍🔧 : ** Feature Engineering (including Node Embedding)
-- **section 3 👩🏻‍🔬 : ** Fraud Detection Model Building & Evaluating
+- **section 1 👩🏼‍💻 :  Exploratory Data Analysis
+- **section 2 👨🏻‍🔧 :  Feature Engineering (including Node Embedding)
+- **section 3 👩🏻‍🔬 :  Fraud Detection Model Building & Evaluating
 
 🚀 Ok, so let's start! (Find detail in **Payment Fraud Detection.ipynb** file)
